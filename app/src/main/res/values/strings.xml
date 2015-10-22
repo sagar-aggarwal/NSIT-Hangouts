@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NSITHangouts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="API_KEY">AIzaSyBAuY7uwzJkS1d1Cp8WLYphhs4UuAZ7ZL4</string>
+    <string name="title_activity_place_maps">Map</string>
+
+
+
+</resources>

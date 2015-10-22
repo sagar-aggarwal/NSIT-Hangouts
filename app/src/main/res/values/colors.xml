@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Lime">#A4C400</color>
+    <color name="Teal">#00A0B1</color>
+    <color name="Turquoise">#91D100</color>
+    <color name="LightGreen">#99b433</color>
+    <color name="ClaretRed">#ffbf0000</color>
+    <color name="Orange">@android:color/holo_orange_dark</color>
+    <color name="Cyan">#1BA1E2</color>
+    <color name="Mauve">#76608A</color>
+    <color name="Amber">#F0A30A</color>
+    <color name="Red">@android:color/holo_red_light</color>
+    <color name="Brown">#825A2C</color>
+    <color name="Magenta">#D80073</color>
+    <color name="Emerald">#008A00</color>
+    <color name="Steel">#647687</color>
+    <color name="Purple">#7e3878</color>
+</resources>

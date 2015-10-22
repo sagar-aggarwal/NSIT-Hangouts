@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/ClaretRed"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <ImageView
+            android:src="@drawable/group_casual_people_silhouette"
+            android:layout_weight="1"
+            android:layout_marginRight="2dp"
+            android:scaleType="fitCenter"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:textSize="35dp"
+        android:textColor="#ffff"
+        android:gravity="center"
+        android:text="NSIT HANGOUTS"
+        android:textStyle="bold|italic"
+        android:layout_marginBottom="25dp"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"/>
+
+
+
+
+    </LinearLayout>
